@@ -1,0 +1,105 @@
+[
+
+    {
+        "id": 1,
+        "name": "Double Beef Burger",
+        "price": "$12.80",
+        "image":"images/burger.png"
+    },
+    {
+        "id": 2,
+        "name":"French Fries",
+        "price": "$4.99",
+        "image":"images/frenchfries.png"
+    },
+    {
+        "id": 3,
+        "name":"Sandwich",
+        "price": "$5",
+        "image":"images/sandwich.png"
+    },
+    {
+        "id": 4,
+        "name":"Veggie Salad",
+        "price": "$11",
+        "image":"images/combo-3-salad.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Jollof rice combo",
+        "price": "$24.99",
+        "image":"images/combo-3-jollof.png"
+    },
+    {
+        "id": 6,
+        "name":"Hotdog",
+        "price": "$8",
+        "image":"images/hotdog.png"
+    },
+    {
+        "id": 7,
+        "name":"Chicken & potato combo",
+        "price": "$20",
+        "image":"images/combo-1-chicken dinner.png"
+    },
+    {
+        "id": 8,
+        "name":"Spaghetti",
+        "price": "$5.99",
+        "image":"images/spaghetti.png"
+    },
+    {
+        "id": 9,
+        "name":"Doughnuts",
+        "price": "$3",
+        "image":"images/doughnuts.png"
+    },
+    {
+        "id": 10,
+        "name":"Single Beef Burger",
+        "price": "$8",
+        "image":"images/burger.png"
+    },
+    {
+        "id": 11,
+        "name":"Big Belly Combo",
+        "price": "$30",
+        "image":"images/combo2.png"
+    },
+    {
+        "id": 12,
+        "name":"Parfait",
+        "price": "$2.5",
+        "image":"images/parfait.png"
+    },
+    {
+        "id": 13,
+        "name":"Coffee Specials",
+        "price": "$5",
+        "image":"images/coffee.png"
+    },
+    {
+        "id": 14,
+        "name":"Coca-cola",
+        "price": "$1",
+        "image":"images/coca-cola.png"
+    },
+    {
+        "id": 15,
+        "name":"Lemonade",
+        "price": "$2",
+        "image":"images/lemon.png"
+    },
+    {
+        "id": 16,
+        "name":"Orange Juice",
+        "price": "$3",
+        "image":"images/orangejuice.png"
+    },
+    {
+        "id": 17,
+        "name":"Peach Juice",
+        "price": "$3",
+        "image":"images/peach juice.png"
+    }
+]
